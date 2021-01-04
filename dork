@@ -1,3 +1,5 @@
+import webbrowser
+import time
 webbrowser.open_new_tab("https://www.google.com/search?q=inurl /bug bounty")
 time.sleep(5)
 webbrowser.open_new_tab("https://www.google.com/search?q=inurl : / security")
